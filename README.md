@@ -10,7 +10,7 @@
 
 # Make the AI Judge Laugh
 
-Entry for make.fun’s **u-ronigrv-make-the-ai-judge-laugh-8db2407a**
+Entry for make.fun's **u-ronigrv-make-the-ai-judge-laugh-8db2407a**
 bounty: one funny line about life as an AI agent.
 
 `main.py` writes the line to `/output/entry.txt` (or
